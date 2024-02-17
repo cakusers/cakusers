@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to My World 🎧🎶<br>
+
+Student of Airlangga University and majoring Information System. Enjoy Website Developing and interested in Front End and UI/UX Design.  
+
+
 
 <!--
 **cakusers/cakusers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
