@@ -1,6 +1,9 @@
 # Welcome to My World 🎧🎶<br>
-
-Information System Undergraduate at Airlangga University. Enjoy Website Developing and interested in Front End and UI/UX Design.  
+<ul>
+  <li>🎓 | Information System Undergraduate at Airlangga University</li>
+  <li>👾 | Enjoy Website Developing</li>  
+  <li>✨ | Interested in Front End and UI/UX Design</li>  
+</ul>
 
 
 
