@@ -1,8 +1,8 @@
 # Welcome to My World 🎧🎶<br>
 <ul>
   <li>🎓 | Bachelor of Information System at Airlangga University</li>
-  <li>👾 | Enjoy Website Developing</li>  
-  <li>✨ | Interested in Front End and UI/UX Design</li>  
+  <li>👾 | Enjoy Website Development</li>  
+  <li>✨ | Interested in UI/UX Design</li>  
 </ul>
 
 
